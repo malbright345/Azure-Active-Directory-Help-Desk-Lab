@@ -41,7 +41,8 @@ My solution was Azure Bastion, which would allow me to establish an RDP session 
 
 My first attempt at configuring Bastion was more complicated — and potentially more expensive — than I expected. While working through the available options, I discovered that Azure also offered a Developer SKU intended for development and testing scenarios. That was much better suited to a small learning lab, but it was only available in supported Azure regions.
 
-<img width="979" height="632" alt="Screenshot 2026-10-28 at 5 14 24 PM" src="https://github.com/user-attachments/assets/edb9cbcc-569d-4cf6-86b5-1ee78329aa89" />
+<img width="1561" height="1007" alt="ChatGPT Image Nov 22, 2026, 05_57_48 PM" src="https://github.com/user-attachments/assets/19276306-1c76-4643-95a0-6e1e9bdf1232" />
+
 
 *My original East US deployment offered Premium, Standard, and Basic Bastion SKUs, but not the Developer SKU I wanted to use for this lab.*
 
