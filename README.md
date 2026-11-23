@@ -1,4 +1,4 @@
-<img width="1000" height="738" alt="Screenshot 2026-10-29 at 2 47 26 PM" src="https://github.com/user-attachments/assets/e0e62b71-ae8f-4896-a024-3c7cd84d36a9" />
+
 
 # Azure Active Directory Help Desk Lab
 
