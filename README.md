@@ -1,3 +1,4 @@
+<img width="1000" height="738" alt="Screenshot 2026-10-29 at 2 47 26 PM" src="https://github.com/user-attachments/assets/e0e62b71-ae8f-4896-a024-3c7cd84d36a9" />
 
 # Azure Active Directory Help Desk Lab
 
@@ -158,7 +159,9 @@ But when I attempted to connect to `DC01`, Bastion returned:
 
 `There was an error in requesting a session. Please try again. HTTP request timed out`
 
-**Screenshot:** `Screenshot 2026-10-29 at 2.47.26 PM(4).png`
+
+<img width="1000" height="738" alt="Screenshot 2026-10-29 at 2 47 26 PM" src="https://github.com/user-attachments/assets/1256a1b0-79db-4d43-860d-f1c10e392d90" />
+
 
 *Azure Bastion showing a successful provisioning state for the Developer SKU while simultaneously returning an HTTP timeout when attempting to establish an RDP session with `DC01`.*
 
@@ -243,7 +246,7 @@ This distinction helped clarify what I was actually building. A **domain control
 
 *Creating the new `helpdesk.test` forest during the promotion of `DC01` to a domain controller.*
 
-What services would DC01 provide?
+### What services would DC01 provide?
 
 Now that I had defined the helpdesk.test domain, the next question was: what services did DC01 actually need to provide for that domain to function?
 
